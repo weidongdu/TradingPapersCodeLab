@@ -5,3 +5,5 @@
 This project focuses on reading professional literature related to trading and implementing its content through code. 
 By doing so, we are able to transform theoretical knowledge into practical, executable trading strategies, thereby deepening our understanding and application of trading mechanisms.
 
+Factor-Based Stock Selection 因子选股类
+基于插值排序标准化变量法和复杂变量的平衡分离树的多因子选股模型
