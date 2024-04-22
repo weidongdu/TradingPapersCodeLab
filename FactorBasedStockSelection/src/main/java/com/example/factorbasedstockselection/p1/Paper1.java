@@ -15,7 +15,9 @@ public class Paper1 {
 
     论文原文地址:
     https://www.researchgate.net/publication/281341457_Building_multi-factor_stock_selection_models_using_balanced_split_regression_trees_with_sorting_normalisation_and_hybrid_variables
+    https://www.inderscienceonline.com/doi/abs/10.1504/IJFIP.2015.070081?journalCode=ijfip
      */
+
 
 
 
